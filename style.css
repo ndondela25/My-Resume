@@ -1,0 +1,56 @@
+ul {
+  margin-left: -10px;
+  margin-top: -10px;
+  list-style-position: inside;
+}
+h2{
+  color: black;
+}
+h3{
+  color:blueviolet;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+header{
+ 
+  margin-top: 20px;
+  background-color: lightgray;
+  width: auto;
+  height: 60px;
+}
+footer{
+  background-color: lightgray;
+  height: 50px;
+  text-align: center;
+  text-decoration-color: black;
+}
+html{
+  margin-left: 50px;
+  margin-right: 50;
+  background-color: antiquewhite;
+}
+a{
+  padding-top: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  float: right;
+  width: auto;
+  border: none;
+  display: block;
+  outline: 0;
+}
+
+
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+/* Write your CSS below, don't change the rules above. */
